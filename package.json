@@ -1,0 +1,9 @@
+{
+  "name": "creator-command-center",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Content pipeline and publishing planner for short-form and long-form creators.",
+  "main": "src/index.js",
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=20" }
+}
