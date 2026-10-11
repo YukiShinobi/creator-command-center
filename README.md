@@ -59,3 +59,10 @@ npm test
 ---
 
 <div align="center"><sub>YukiShinobi // ideas are cheap; the pipeline is what gets them published.</sub></div>
+
+
+## Scope and maintenance — October 2026
+
+A content-production workflow experiment. Analytics reflect entered or simulated data until authorised platform integrations are verified.
+
+This repository is separate from the current featured products: [Project Creation](https://github.com/YukiShinobi/project-creation), [Veyra](https://github.com/YukiShinobi/YukiShinobi-veyra), and [Simply Management](https://github.com/YukiShinobi/SIMPLYMANAGEMENT-WEBSITE). Its README does not constitute verification of a live production deployment.
